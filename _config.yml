@@ -1,0 +1,20 @@
+# basic options
+title: salme146-blog
+author: Salme Cook
+email: salme.cook@gmail.com
+description: Documenting motivation behind some estuarine and coastal dynamics 
+github_username:  salme146
+linkedin_username: salmecook
+researchgate_username: Salme-Cook
+google_scholar: Salme Cook
+
+header_pages:
+  - about.md
+  - portfolio.md
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+
